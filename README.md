@@ -4,8 +4,9 @@
 </a>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@:Bascode-040612V1" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Bascode-040612V1&count_bg=%2300FF41&title_bg=%23000000&icon=github&icon_color=%2300FF41&title=VISITORS&edge_flat=false"/>
 </p>
+
 
 </div>
 
