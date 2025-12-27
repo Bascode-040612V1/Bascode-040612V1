@@ -15,6 +15,6 @@
 </a>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+There+👋&lines=I'm+Cybersecurity+Enthusiast&lines=Coder+|+Hacker+|+Tech+Explorer&lines=Always+Learning+and+Evolving!&lines=lways+Learning+and+Evolving!&lines=ways+Learning+and+Evolving!&lines=ays+Learning+and+Evolving!&lines=ys+Learning+and+Evolving!&lines=s+Learning+and+Evolving!&lines=+Learning+and+Evolving!&lines=Learning+and+Evolving!&lines=earning+and+Evolving!&lines=arning+and+Evolving!&lines=rning+and+Evolving!&lines=ning+and+Evolving!&lines=ing+and+Evolving!&lines=ng+and+Evolving!&lines=g+and+Evolving!&lines=+and+Evolving!&lines=and+Evolving!&lines=nd+Evolving!&lines=d+Evolving!&lines=+Evolving!&lines=Evolving!&lines=volving!&lines=olving!&lines=lving!&lines=ving!&lines=ing!&lines=ng!&lines=g!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+There+👋&lines=I'm+Cybersecurity+Enthusiast&lines=Coder+|+Hacker+|+Tech+Explorer&lines=Always+Learning+and+Evolving!&lines=Learning+and+Evolving!&lines=and+Evolving!&lines=Evolving!" />
 
 <div align="center">
